@@ -771,9 +771,4 @@ ex:NoticeReceipt1 a conv108:BilateralNoticeProof ;
 
 **Status**: This is a working draft for community review. Feedback welcome via Digital Transparency Lab or W3C DPVCG channels.
 
-**Proposed Next Steps**:
-
-1. Community review (Q1 2026)
-2. W3C DPVCG submission
-3. ISO/IEC JTC 1/SC 27/WG 5 coordination
-4. Publication as W3C Community Group specification
+**Mapping**: 
