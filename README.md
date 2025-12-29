@@ -182,7 +182,7 @@ Contributions welcome via GitLab issues and merge requests.
 ### GDTA Resources
 
 - **GDTA Website**: [gdtagroup.org](http://gdtagroup.org) - [gdta.online](http://gdta.online) Global Digital Transparency Alliance - Forum
-- **Founding Inquiries**: [founding@gdtagroup.org](mailto:founding@gdtagroup.org)
+- **Founding Inquiries**: [info@gdta.online](mailto:info@gdta.online)
 
 ### Related Standards Bodies
 
